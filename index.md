@@ -1,5 +1,5 @@
 ---
-## title: 
+title: Welcome to my blog
 ---
 
-Welcome to my blog, I'm still playing around
+I'm still playing around
